@@ -18,7 +18,7 @@ from telegram.ext import (
 # =========================
 # CONFIG
 # =========================
-TOKEN = os.getenv("8536029458:AAFGvI9zZqvithELvT3FitVToplB5AALFqU")
+TOKEN = os.getenv("TOKEN")
 BOT_USERNAME = "FREEDGB_EaRN_BOT"   # without @
 
 ADMIN_ID = 7949290215
