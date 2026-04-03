@@ -32,7 +32,7 @@ CHANNEL_LINKS = {
 }
 
 REFERRAL_REWARD = 1
-MIN_REDEEM = 10
+MIN_REDEEM = 1
 
 waiting_for_wallet = set()
 waiting_for_redeem = set()
